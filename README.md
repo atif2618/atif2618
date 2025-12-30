@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently at LF&EW<br>I am looking to collaborate on software developer<br>I am looking help with:Building scalable full-stack applications and improving system design skills through real world projects<br>I'm currently learning:<br>Advanced system design, backend scalability, and integrating Al into full-stack applications.<br>Ask me about:<br>Full-stack web development, React/Next.js, Node.js, MongoDB, and DSA problem solving.<br>Ask me about:<br>Full-stack web development, React/Next.js, Node.js, MongoDB, and DSA problem solving.<br><br>
+I am currently at LF&EW<br>I am looking to collaborate on software developing<br>I am looking help with:Building scalable full-stack applications and improving system design skills through real world projects<br>I'm currently learning:<br>Advanced system design, backend scalability, and integrating Al into full-stack applications.<br>Ask me about:<br>Full-stack web development, React/Next.js, Node.js, MongoDB, and DSA problem solving.<br>Ask me about:<br>Full-stack web development, React/Next.js, Node.js, MongoDB, and DSA problem solving.<br><br>
 
 
 ## 🌐 Socials:
