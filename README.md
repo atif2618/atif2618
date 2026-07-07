@@ -1,49 +1,75 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Atif%20Lohar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Atif%20Lohar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60"/>
 
-<br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+Engineer;Backend+Developer;Open+Source+Enthusiast;Building+Scalable+Applications;Always+Learning+🚀"/>
+<div align="center">
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+Engineer;Backend+Developer;Open+Source+Contributor;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=atif2618&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/github/followers/atif2618?logo=github&style=for-the-badge&color=6D28D9"/>
+---
 
-<img src="https://img.shields.io/github/stars/atif2618?affiliations=OWNER&style=for-the-badge&color=8B5CF6"/>
+<div align="center">
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=atif2618&label=Profile+Views&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/atif2618?style=for-the-badge&logo=github&color=6D28D9"/>
+
+<img src="https://img.shields.io/github/stars/atif2618?affiliations=OWNER&style=for-the-badge&logo=github&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/last-commit/atif2618/atif2618?style=for-the-badge&color=4F46E5"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/B.Tech-IIIT%20Nagpur-6D28D9?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/ECE-Final%20Year-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Location-Mumbai,%20India-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mumbai-India-4F46E5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20To-SDE%20%7C%20AI%20Roles-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering%20Roles-8B5CF6?style=for-the-badge"/>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
 
 <a href="mailto:loharatif7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/atif2618">
-<img src="https://img.shields.io/badge/GitHub-atif2618-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://linkedin.com/in/atif-lohar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://atif2618.github.io/Atif-s-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 <a href="https://leetcode.com/u/Atif_Lohar/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 </a>
 
 </div>
@@ -52,45 +78,41 @@
 
 # 👋 Hello, I'm Atif Lohar
 
-### Software Engineer • Full Stack Developer • AI Engineer
+### Software Engineer • AI Engineer • Full Stack Developer
 
-I'm a **Final-Year B.Tech student at IIIT Nagpur** with a passion for building scalable software, AI-powered products, and modern cloud-native applications.
+I am a **Final-Year B.Tech student at IIIT Nagpur** passionate about building **scalable software systems**, **AI-powered applications**, and **cloud-native solutions**.
 
-My interests span across **Software Engineering**, **Backend Development**, **Artificial Intelligence**, **System Design**, and **DevOps**. I enjoy transforming ideas into reliable, production-ready applications that solve real-world problems.
+My interests span across **Software Engineering**, **Backend Development**, **Artificial Intelligence**, **DevOps**, **System Design**, and **Open Source**. I enjoy transforming ideas into reliable, production-ready products while continuously learning modern technologies.
 
 ---
 
-## 🚀 Quick Highlights
+## 🚀 Quick Snapshot
 
 <table>
 
 <tr>
 
-<td>
+<td width="50%">
 
-🎓 B.Tech (ECE) @ IIIT Nagpur
+### 👨‍💻 Professional
 
-💻 Full Stack Developer
-
-🤖 AI Engineer
-
-⚙️ Backend Developer
-
-☁️ DevOps Learner
+- 💻 Full Stack Developer
+- 🤖 AI Engineer
+- ⚙️ Backend Developer
+- ☁️ DevOps Learner
+- 🚀 Open Source Enthusiast
 
 </td>
 
-<td>
+<td width="50%">
 
-🧠 500+ DSA Problems Solved
+### 🎯 Highlights
 
-🏆 Hackventure Runner-Up
-
-🚀 Building AI Applications
-
-🌱 Learning Kubernetes & AWS
-
-🌍 Mumbai, India
+- 🎓 Final Year @ IIIT Nagpur
+- 🧩 500+ DSA Problems Solved
+- 🏆 Hackventure Runner-Up
+- 🌍 Mumbai, India
+- 📚 Learning Kubernetes & AWS
 
 </td>
 
@@ -100,7 +122,7 @@ My interests span across **Software Engineering**, **Backend Development**, **Ar
 
 ---
 
-## 💡 Professional Summary
+## 💼 Professional Summary
 
 ```yaml
 Name: Atif Lohar
@@ -109,34 +131,35 @@ Role:
   Software Engineer
 
 Education:
-  B.Tech in Electronics & Communication Engineering
-  IIIT Nagpur (2022–2026)
+  B.Tech
+  Electronics & Communication Engineering
+  IIIT Nagpur
 
-Current Focus:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Backend Engineering
-  - Kubernetes
-  - Cloud Computing
-
-Interested In:
+Primary Interests:
   - Software Engineering
-  - AI Engineering
+  - Artificial Intelligence
   - Backend Development
-  - Open Source
-  - Product Engineering
+  - Cloud Computing
+  - DevOps
 
 Currently Building:
   - AI Applications
   - MERN Stack Projects
   - DevOps Labs
+  - Backend APIs
+
+Open To:
+  - Software Engineer
+  - Backend Engineer
+  - Full Stack Engineer
+  - AI Engineer
 ```
 
 ---
 
 <div align="center">
 
-### ⭐ "Engineering solutions that are scalable, intelligent, and impactful."
+### 💜 *"Building scalable software that creates real-world impact."*
 
 </div>
 
@@ -144,59 +167,63 @@ Currently Building:
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-I'm a **Software Engineer** passionate about building scalable web applications, AI-powered solutions, and cloud-native systems.
+I'm a **Software Engineer** passionate about designing scalable systems, developing intelligent applications, and solving real-world problems through technology.
 
-Currently pursuing **B.Tech in Electronics & Communication Engineering** at **IIIT Nagpur**, I enjoy turning complex problems into clean, efficient, and user-friendly software.
+Currently pursuing my **B.Tech in Electronics & Communication Engineering** at **IIIT Nagpur**, I enjoy working across the complete software development lifecycle—from designing user interfaces to building secure backend services and deploying cloud-native applications.
 
-My interests span across **Full Stack Development**, **Backend Engineering**, **Artificial Intelligence**, **DevOps**, and **System Design**. I'm constantly learning modern technologies while building real-world projects that create meaningful impact.
+My primary interests include **Software Engineering**, **Backend Development**, **Artificial Intelligence**, **Cloud Computing**, **DevOps**, and **System Design**.
+
+I believe great software should be **simple, scalable, secure, and impactful.**
 
 <br clear="right"/>
 
 ---
 
-# 🚀 What I'm Currently Doing
+# 🚀 What I'm Currently Working On
 
 ```yaml
-Working On:
-  - AI Powered Applications
-  - Full Stack Web Applications
-  - Backend APIs
-  - DevOps Projects
+Currently:
 
-Learning:
-  - Kubernetes
-  - Docker
-  - AWS
-  - Terraform
-  - CI/CD Pipelines
-  - System Design
-  - Microservices
+  Building:
+    - AI Powered Applications
+    - Full Stack Web Platforms
+    - Backend APIs
+    - DevOps Practice Projects
 
-Exploring:
-  - Large Language Models (LLMs)
-  - RAG Applications
-  - Agentic AI
-  - Distributed Systems
+  Learning:
+    - Kubernetes
+    - Docker
+    - AWS Cloud
+    - Terraform
+    - GitHub Actions
+    - CI/CD Pipelines
+    - Microservices
+    - Redis
+    - Kafka
 
-Open To:
-  - Software Engineer Roles
-  - Full Stack Developer Roles
-  - Backend Engineer Roles
-  - AI Engineer Roles
-  - Open Source Contributions
+  Exploring:
+    - Large Language Models (LLMs)
+    - Agentic AI
+    - Retrieval-Augmented Generation (RAG)
+    - Distributed Systems
+    - High-Level System Design
+
+  Goal:
+    Become a Software Engineer building products
+    used by millions of users.
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-## 💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,php,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,php"/>
 
 </div>
 
@@ -206,19 +233,19 @@ Open To:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css"/>
 
 </div>
 
-**Frameworks & Libraries**
+**Frameworks**
 
 - React.js
 - Next.js
 - Redux Toolkit
 - React Router
 - Tailwind CSS
-- Material UI
-- Responsive Web Design
+- Bootstrap
+- Responsive Design
 
 ---
 
@@ -230,20 +257,21 @@ Open To:
 
 </div>
 
-### Backend Skills
+### Backend Expertise
 
 - REST API Development
 - Authentication & Authorization
 - JWT
 - Express Middleware
 - Socket.IO
-- API Security
+- API Validation
 - Error Handling
 - MVC Architecture
+- Secure Backend Design
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database Technologies
 
 <div align="center">
 
@@ -255,10 +283,10 @@ Open To:
 
 - MongoDB
 - MySQL
-- Schema Design
 - Aggregation Pipelines
+- Schema Design
+- Relationships
 - Query Optimization
-- Database Relationships
 
 ---
 
@@ -266,95 +294,138 @@ Open To:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 
 </div>
 
-### Libraries & Frameworks
+### AI Technologies
 
 - OpenCV
 - face_recognition
 - dlib
-- Streamlit
 - NumPy
+- Streamlit
 - Prompt Engineering
+- Generative AI
+- Computer Vision
 
 ---
 
-## ☁️ Cloud • DevOps • Tools
+## ☁️ Cloud • DevOps
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,git,github,postman,vscode"/>
 
 </div>
 
-### Tools
+### DevOps Tools
 
-- Git & GitHub
 - Docker
 - Kubernetes
+- AWS
+- Terraform
+- GitHub Actions
 - Linux
+- Git
 - Postman
-- VS Code
-- Jupyter Notebook
 
 ---
 
-# 📊 Technical Expertise
+# 🧠 AI / ML Expertise
 
-| Domain | Proficiency | Technologies |
-|---------|-------------|--------------|
-| 💻 Full Stack Development | ⭐⭐⭐⭐⭐ | React, Next.js, Node.js, Express |
-| ⚙️ Backend Engineering | ⭐⭐⭐⭐⭐ | REST APIs, JWT, Socket.IO |
-| 🗄️ Database Design | ⭐⭐⭐⭐☆ | MongoDB, MySQL |
-| 🤖 Artificial Intelligence | ⭐⭐⭐⭐☆ | OpenCV, Streamlit, dlib |
-| 🧠 Machine Learning | ⭐⭐⭐⭐☆ | Python, NumPy |
-| ☁️ Cloud Computing | ⭐⭐⭐☆☆ | AWS |
-| ⚙️ DevOps | ⭐⭐⭐☆☆ | Docker, Kubernetes |
-| 📚 System Design | ⭐⭐⭐⭐☆ | HLD, LLD |
-| 💡 Problem Solving | ⭐⭐⭐⭐⭐ | DSA, C++ |
+<div align="center">
+
+| Domain | Level | Technologies |
+|:--------|:-----:|-------------|
+| 🤖 Computer Vision | ⭐⭐⭐⭐⭐ | OpenCV, dlib |
+| 😀 Face Recognition | ⭐⭐⭐⭐⭐ | face_recognition |
+| 🧠 Generative AI | ⭐⭐⭐⭐☆ | Prompt Engineering, LLMs |
+| 📄 AI Document Processing | ⭐⭐⭐⭐☆ | RAG, LangChain |
+| 💬 Conversational AI | ⭐⭐⭐⭐☆ | OpenAI APIs |
+| 📊 Data Processing | ⭐⭐⭐⭐☆ | NumPy, Pandas |
+| 🌐 AI Web Applications | ⭐⭐⭐⭐☆ | Streamlit |
+
+</div>
 
 ---
 
-# 🧠 Core Computer Science
+# 📚 Core Computer Science
 
 <div align="center">
 
 | Subject | Confidence |
-|----------|------------|
+|:---------|:----------:|
 | Data Structures & Algorithms | ⭐⭐⭐⭐⭐ |
-| Operating Systems | ⭐⭐⭐⭐⭐ |
-| Database Management Systems | ⭐⭐⭐⭐⭐ |
 | Object-Oriented Programming | ⭐⭐⭐⭐⭐ |
+| Database Management Systems | ⭐⭐⭐⭐⭐ |
+| Operating Systems | ⭐⭐⭐⭐⭐ |
 | Computer Networks | ⭐⭐⭐⭐☆ |
 | System Design | ⭐⭐⭐⭐☆ |
-| Linux | ⭐⭐⭐⭐☆ |
+| Software Engineering | ⭐⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-# 🤖 AI / ML Expertise
-
-| Domain | Experience | Tools |
-|----------|------------|------|
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, dlib |
-| Face Recognition | ⭐⭐⭐⭐☆ | face_recognition |
-| Generative AI | ⭐⭐⭐⭐☆ | LLMs, Prompt Engineering |
-| AI Web Apps | ⭐⭐⭐⭐☆ | Streamlit |
-| Backend AI Integration | ⭐⭐⭐⭐☆ | Python APIs |
-| Retrieval-Augmented Generation | 🌱 Learning | LangChain, Vector DB |
-
----
-
-# 💡 Engineering Philosophy
-
-> **"Build software that is simple to use, scalable by design, secure by default, and impactful in the real world."**
+# 🎯 Engineering Principles
 
 <div align="center">
 
-### 🚀 *Code with Purpose • Learn Continuously • Build for Impact*
+| Principle | Description |
+|-----------|-------------|
+| 🏗️ Clean Architecture | Build modular and maintainable software |
+| 🔒 Security First | Secure applications by default |
+| ⚡ Performance | Optimize for scalability and efficiency |
+| 📈 Continuous Learning | Learn and adapt to modern technologies |
+| 🧩 Simplicity | Keep solutions elegant and understandable |
+| 🤝 Collaboration | Build, share, and grow with the community |
+
+</div>
+
+---
+
+# 🌟 What Sets Me Apart
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Engineering
+
+- Full Stack Development
+- Backend APIs
+- AI Integration
+- Database Design
+- Cloud Learning
+- Clean Code
+
+</td>
+
+<td width="50%">
+
+### 🚀 Professional
+
+- Problem Solver
+- Fast Learner
+- Team Player
+- Open Source Enthusiast
+- Continuous Improvement
+- Product Mindset
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 💜 Engineering software that is scalable, intelligent, and built for real-world impact.
 
 </div>
 
@@ -362,68 +433,36 @@ Open To:
 
 # 🚀 Featured Projects
 
-> A collection of projects that showcase my expertise in **Software Engineering, Artificial Intelligence, Backend Development, and Full Stack Product Development.**
+> A curated collection of projects showcasing my expertise in **Software Engineering**, **Artificial Intelligence**, **Backend Engineering**, **Cloud-Native Development**, and **Modern Full Stack Applications**.
 
 ---
 
-## 🧠 AI Missing Person Detection System
+<details open>
+<summary><b>🧠 AI Missing Person Detection System</b></summary>
 
-<table>
-<tr>
-<td width="65%">
+### 📌 Overview
 
-### 📖 Overview
-
-An AI-powered web application that identifies missing persons using **facial recognition**. The system compares uploaded images with registered profiles using Computer Vision techniques, providing an efficient way to automate identification.
+An AI-powered facial recognition platform that helps identify missing persons by comparing uploaded images against a registered database using Computer Vision techniques.
 
 ### ✨ Key Features
 
-- 🔐 Secure User Authentication
-- 📤 Image Upload
-- 🤖 AI Face Recognition
-- 📸 OpenCV Image Processing
-- ⚡ Fast Face Matching
-- 📊 Interactive Streamlit Dashboard
+- 🤖 Face Recognition using OpenCV & dlib
+- 📤 Image Upload & Processing
+- 🔍 Intelligent Face Matching
+- 📊 Streamlit Dashboard
 - 💾 Database Integration
-- 📂 Git Version Control
+- 🔐 Secure Authentication
+- ⚡ Fast Search & Comparison
 
-### 🏗️ Architecture
-
-```
-Image Upload
-      │
-      ▼
- Face Detection
-      │
-      ▼
- Face Encoding
-      │
-      ▼
- Face Comparison
-      │
-      ▼
- Matching Result
-```
-
-</td>
-
-<td>
-
-| Property | Value |
-|----------|-------|
+| Category | Details |
+|-----------|----------|
+| **Domain** | Artificial Intelligence |
 | **Status** | ✅ Completed |
-| **Type** | AI Project |
+| **Architecture** | AI + Web |
 | **Language** | Python |
-| **Framework** | Streamlit |
-| **AI** | OpenCV + dlib |
 | **Difficulty** | Advanced |
 
-</td>
-
-</tr>
-</table>
-
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
 <p>
 
@@ -431,65 +470,66 @@ Image Upload
 
 </p>
 
-`OpenCV` • `dlib` • `face_recognition` • `Streamlit`
+**Libraries**
+
+`OpenCV` • `dlib` • `face_recognition` • `NumPy` • `Streamlit`
+
+### 🏗 Workflow
+
+```text
+Upload Image
+      │
+      ▼
+Face Detection
+      │
+      ▼
+Face Encoding
+      │
+      ▼
+Database Comparison
+      │
+      ▼
+Matching Result
+```
+
+**Highlights**
+
+- High-accuracy face matching
+- AI-powered identification
+- User-friendly dashboard
+- Optimized image processing
+
+</details>
 
 ---
 
-## 💻 Technical Interview Platform
+<details open>
+<summary><b>💻 Technical Interview Platform</b></summary>
 
-<table>
-<tr>
-<td width="65%">
+### 📌 Overview
 
-### 📖 Overview
-
-A modern **technical interviewing platform** designed for coding interviews with real-time collaboration, automatic evaluation, video interviews, and secure authentication.
+A modern coding interview platform that enables companies to conduct technical interviews with an integrated code editor, authentication, dashboards, and real-time collaboration.
 
 ### ✨ Features
 
-- 👨‍💻 VS Code Style Editor
-- 🎥 Live Video Interviews
+- 💻 VS Code-like Editor
+- 🎥 Live Interview Support
 - 💬 Real-Time Chat
-- 🧪 Automatic Test Case Evaluation
-- 🔐 Clerk Authentication
-- 🎯 Role Based Access
-- 📅 Interview Scheduling
+- 🧪 Automated Test Cases
 - 📊 Candidate Dashboard
+- 👨‍💼 Recruiter Dashboard
+- 🔐 Clerk Authentication
+- 📅 Interview Scheduling
 
-### 🏗️ Architecture
-
-```
-Frontend
-     │
-     ▼
- REST APIs
-     │
-     ▼
-Node.js Backend
-     │
-     ▼
-MongoDB Database
-```
-
-</td>
-
-<td>
-
-| Property | Value |
-|----------|-------|
-| **Status** | ✅ Completed |
+| Category | Details |
+|-----------|----------|
 | **Type** | Full Stack |
+| **Status** | ✅ Completed |
 | **Frontend** | Next.js |
 | **Backend** | Node.js |
 | **Database** | MongoDB |
-| **Difficulty** | Advanced |
 
-</td>
-
-</tr>
-</table>
-
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
 <p>
 
@@ -497,45 +537,54 @@ MongoDB Database
 
 </p>
 
+### 🏗 Architecture
+
+```text
+Next.js Frontend
+        │
+ REST API Layer
+        │
+Node.js + Express
+        │
+     MongoDB
+```
+
+**Highlights**
+
+- Secure authentication
+- Modular backend architecture
+- Responsive UI
+- Scalable API design
+
+</details>
+
 ---
 
-## 💬 Real-Time Chat Application
+<details open>
+<summary><b>💬 Real-Time Chat Application</b></summary>
 
-<table>
-<tr>
-<td width="65%">
+### 📌 Overview
 
-### 📖 Overview
-
-A production-ready real-time messaging platform enabling one-to-one and group communication using WebSockets.
+A production-inspired chat platform enabling instant one-to-one and group messaging with real-time communication.
 
 ### ✨ Features
 
 - 💬 Instant Messaging
 - 👥 Group Chats
-- 🔔 Live Notifications
 - 🟢 Online Presence
-- 🔒 JWT Authentication
-- 🌙 Responsive UI
-- 📱 Mobile Friendly
+- 🔔 Live Notifications
+- 🔐 JWT Authentication
+- 📱 Responsive UI
+- 🌙 Dark Mode
 
-</td>
-
-<td>
-
-| Property | Value |
-|----------|-------|
-| **Status** | ✅ Completed |
+| Category | Details |
+|-----------|----------|
 | **Architecture** | MERN |
 | **Communication** | Socket.IO |
 | **Authentication** | JWT |
+| **Status** | ✅ Completed |
 
-</td>
-
-</tr>
-</table>
-
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
 <p>
 
@@ -543,33 +592,79 @@ A production-ready real-time messaging platform enabling one-to-one and group co
 
 </p>
 
+**Additional Technologies**
+
 `Socket.IO` • `JWT`
+
+### System Flow
+
+```text
+React Client
+
+↓
+
+Socket.IO Server
+
+↓
+
+Express API
+
+↓
+
+MongoDB
+```
+
+**Highlights**
+
+- Low-latency messaging
+- Secure login
+- Real-time synchronization
+- Mobile responsive
+
+</details>
 
 ---
 
-## 📄 AI Document Question Answering (RAG)
+<details open>
+<summary><b>📄 AI Document Question Answering (RAG)</b></summary>
 
-<table>
-<tr>
-<td width="65%">
+### 📌 Overview
 
-### 📖 Overview
-
-An AI-powered application that allows users to upload documents and ask natural language questions using **Retrieval-Augmented Generation (RAG)**.
+A Retrieval-Augmented Generation (RAG) application that allows users to upload documents and ask natural language questions with grounded answers.
 
 ### ✨ Features
 
 - 📂 PDF Upload
+- 📖 Text Extraction
 - ✂️ Smart Chunking
-- 🧠 Embedding Generation
-- 🔎 Semantic Search
+- 🧠 Embeddings
+- 🔍 Semantic Search
 - 🤖 LLM Responses
-- 📖 Source Citation
-- ⚡ Fast Retrieval
+- 📚 Source References
 
-### AI Pipeline
+| Category | Details |
+|-----------|----------|
+| **Domain** | Generative AI |
+| **Status** | 🚧 In Progress |
+| **Architecture** | RAG |
+| **LLM** | OpenAI |
+| **Vector DB** | ChromaDB |
 
-```
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,react"/>
+
+</p>
+
+**Frameworks**
+
+`LangChain` • `OpenAI API` • `ChromaDB`
+
+### Pipeline
+
+```text
 PDF
 
 ↓
@@ -594,125 +689,141 @@ Retriever
 
 ↓
 
-LLM Response
+LLM
+
+↓
+
+Answer + Citations
 ```
 
-</td>
+**Highlights**
 
-<td>
+- Semantic document search
+- AI-powered answers
+- Source-grounded responses
+- Scalable RAG pipeline
 
-| Property | Value |
-|----------|-------|
-| **Status** | 🚧 In Progress |
-| **Architecture** | RAG |
-| **LLM** | OpenAI |
-| **Vector DB** | ChromaDB |
-
-</td>
-
-</tr>
-</table>
-
-### ⚙️ Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,python"/>
-
-</p>
-
-`LangChain` • `OpenAI` • `ChromaDB`
+</details>
 
 ---
 
-## 🌐 Personal Portfolio Website
+<details open>
+<summary><b>🌐 Personal Portfolio Website</b></summary>
 
-<table>
-<tr>
-<td width="65%">
+### 📌 Overview
 
-### 📖 Overview
+A responsive portfolio website showcasing my projects, technical skills, achievements, and professional journey.
 
-A responsive personal portfolio showcasing my projects, skills, experience, and achievements with a modern UI.
+### 🌍 Live Website
+
+**🔗 https://atif2618.github.io/Atif-s-Portfolio/**
 
 ### ✨ Features
 
-- 🎨 Modern Responsive Design
-- 📱 Mobile Friendly
-- ⚡ Fast Loading
+- 🎨 Modern UI
+- 📱 Mobile Responsive
+- ⚡ Fast Performance
 - 📂 Projects Showcase
 - 📄 Resume Section
-- 📬 Contact Form
-- 🌙 Clean UI
+- 📬 Contact Section
+- 🌙 Dark Theme
 
-**🔗 Live Website**
-
-https://atif2618.github.io/Atif-s-Portfolio/
-
-</td>
-
-<td>
-
-| Property | Value |
-|----------|-------|
+| Category | Details |
+|-----------|----------|
 | **Status** | ✅ Live |
 | **Framework** | React |
 | **Hosting** | GitHub Pages |
+| **Type** | Portfolio |
 
-</td>
-
-</tr>
-</table>
-
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,github"/>
 
 </p>
 
----
+**Highlights**
 
-# 📊 Project Summary
+- Clean UI/UX
+- Optimized performance
+- Fully responsive
+- Easy navigation
 
-| Project | Domain | Status |
-|----------|--------|--------|
-| 🧠 AI Missing Person Detection | Artificial Intelligence | ✅ |
-| 💻 Technical Interview Platform | Full Stack | ✅ |
-| 💬 Real-Time Chat App | MERN | ✅ |
-| 📄 AI Document Q&A | Generative AI | 🚧 |
-| 🌐 Portfolio Website | Frontend | ✅ |
+</details>
 
 ---
+
+# 📈 Project Impact
 
 <div align="center">
 
-### 💡 *"Every project is an opportunity to learn, innovate, and engineer impactful solutions."*
+| Focus Area | Projects |
+|:-----------|:--------:|
+| 🤖 Artificial Intelligence | 2 |
+| 💻 Full Stack Applications | 3 |
+| ⚙️ Backend Systems | 3 |
+| 🌐 Frontend Development | 4 |
+| 📄 AI / RAG | 1 |
+| ☁️ Cloud & DevOps Labs | Ongoing |
 
 </div>
 
 ---
 
-# 💼 Experience
+<div align="center">
 
-## 👨‍💻 Software Engineering Projects
+### 🚀 *"Every project is an opportunity to solve a real-world problem, learn a new technology, and grow as an engineer."*
 
-**Independent Developer**  
-📍 Mumbai, India | 🗓️ January 2024 – Present
+</div>
 
-Building production-inspired software projects with a strong focus on scalability, backend engineering, artificial intelligence, and modern development practices.
+---
 
-### Key Responsibilities
+# 💼 Professional Experience
 
-- 🏗️ Designed scalable frontend architectures using **React.js** and **Next.js**.
-- ⚙️ Built secure RESTful APIs using **Node.js** and **Express.js**.
-- 🤖 Developed AI-powered applications using **Python**, **OpenCV**, and **Computer Vision**.
-- 🔐 Implemented secure authentication using **JWT** and role-based authorization.
-- 💾 Designed efficient database schemas with **MongoDB** and **MySQL**.
-- 💬 Integrated **Socket.IO** for real-time communication.
-- ☁️ Learning cloud-native development using **Docker**, **Kubernetes**, and **AWS**.
-- 📦 Followed Git workflows, modular architecture, and clean coding practices.
+> My experience is built through **hands-on software engineering**, **AI product development**, and **continuous learning** by building production-inspired applications.
+
+---
+
+## 👨‍💻 Full Stack & AI Developer
+
+**Independent Software Engineer**  
+📍 Mumbai, India  
+🗓️ January 2024 – Present
+
+Designing, developing, and deploying modern web applications while exploring cloud-native technologies, backend engineering, and Artificial Intelligence.
+
+### Responsibilities
+
+- 🚀 Developed scalable Full Stack applications using the **MERN Stack** and **Next.js**
+- ⚙️ Built secure REST APIs with **Node.js** and **Express.js**
+- 🤖 Developed AI-powered applications using **Python**, **OpenCV**, and **LLMs**
+- 🔐 Implemented authentication using **JWT** and modern authorization techniques
+- 💾 Designed scalable database schemas with **MongoDB** and **MySQL**
+- 💬 Integrated **Socket.IO** for real-time communication
+- 🐳 Containerized applications using **Docker**
+- ☸️ Learning Kubernetes by deploying real-world applications
+- 🌩️ Exploring AWS services and cloud-native development
+- 📚 Following software engineering best practices including Git workflows, reusable architecture, and clean code principles
+
+---
+
+# 📈 Engineering Snapshot
+
+<div align="center">
+
+| Category | Technologies |
+|:----------|:------------|
+| 💻 Languages | C++, Java, Python, JavaScript, PHP |
+| 🌐 Frontend | React.js, Next.js, Tailwind CSS, Redux |
+| ⚙️ Backend | Node.js, Express.js |
+| 🗄️ Databases | MongoDB, MySQL |
+| 🤖 Artificial Intelligence | OpenCV, Streamlit, face_recognition |
+| ☁️ Cloud | AWS (Learning) |
+| 🐳 DevOps | Docker, Kubernetes |
+| 🔧 Tools | Git, GitHub, Linux, Postman |
+
+</div>
 
 ---
 
@@ -720,14 +831,14 @@ Building production-inspired software projects with a strong focus on scalabilit
 
 <div align="center">
 
-| Achievement | Description |
-|-------------|-------------|
-| 🥈 Hackventure Runner-Up | Runner-up in Technovation Hackventure (2024–25) |
-| 💯 Problem Solving | Solved **500+ DSA problems** across coding platforms |
-| 🧠 AI Development | Built multiple AI-powered applications |
-| 💻 Full Stack | Developed scalable MERN and Next.js applications |
-| 🎓 IIIT Nagpur | Final-Year B.Tech (ECE) Student |
-| 🚀 Continuous Learning | Actively learning Kubernetes, AWS & DevOps |
+| Achievement | Details |
+|:-----------|:--------|
+| 🥈 Runner-Up | Hackventure 2024–25 |
+| 🧩 Problem Solving | 500+ DSA Problems Solved |
+| 💻 Full Stack | Multiple Production-Style Applications |
+| 🤖 AI Projects | Face Recognition & RAG Applications |
+| 🎓 Education | Final-Year B.Tech @ IIIT Nagpur |
+| 📚 Continuous Learning | Kubernetes • AWS • DevOps • AI |
 
 </div>
 
@@ -737,25 +848,25 @@ Building production-inspired software projects with a strong focus on scalabilit
 
 <div align="center">
 
-### Completed Certifications
+### Cloud
 
-<img src="https://img.shields.io/badge/Udemy-Full%20Stack%20Web%20Development-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(Learning)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/iNeuron-Generative%20AI-6D28D9?style=for-the-badge"/>
+<br><br>
 
-</div>
+### DevOps
 
----
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-### Currently Preparing
+<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws"/>
+### AI
 
-<img src="https://img.shields.io/badge/Docker-Certification-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Hands%20On-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Kubernetes-CKAD%20Roadmap-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C2D91?style=for-the-badge"/>
 
 </div>
 
@@ -766,11 +877,11 @@ Building production-inspired software projects with a strong focus on scalabilit
 <div align="center">
 
 <a href="https://leetcode.com/u/Atif_Lohar/">
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/atif2618">
-<img src="https://img.shields.io/badge/GitHub-atif2618-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-atif2618-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
@@ -789,66 +900,56 @@ Building production-inspired software projects with a strong focus on scalabilit
 
 ---
 
-# 📊 Engineering Snapshot
+# 📊 Engineering Metrics
 
 <div align="center">
 
-| Category | Details |
-|----------|---------|
-| 💻 Programming Languages | JavaScript, Python, C++, Java, PHP |
-| 🌐 Frontend | React.js, Next.js, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js |
-| 🗄️ Databases | MongoDB, MySQL |
-| 🤖 AI | OpenCV, Streamlit, dlib |
-| ☁️ Cloud | AWS (Learning) |
-| 🚀 DevOps | Docker, Kubernetes (Learning) |
-| 📚 Core CS | DSA, DBMS, OS, OOP, System Design |
+| Metric | Value |
+|:-------|:-----:|
+| 💻 Programming Languages | 6+ |
+| 🚀 Full Stack Projects | 5+ |
+| 🤖 AI Projects | 2+ |
+| 📚 DSA Problems Solved | 500+ |
+| 🌐 Portfolio Website | ✅ Live |
+| ☁️ Cloud Learning | AWS |
+| 🐳 DevOps | Docker • Kubernetes |
+| 🌍 Open Source | Active Learner |
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Crack a Software Engineer role at a top product company
-- ☁️ Earn the AWS Cloud Practitioner certification
-- ☸️ Build and deploy production applications on Kubernetes
-- 🤖 Develop advanced AI-powered products using LLMs and RAG
-- 🌍 Contribute regularly to open-source projects
-- 🧩 Solve **1000+ DSA problems**
-- 📖 Deepen expertise in System Design and Distributed Systems
-
----
-
-# 🌱 Currently Learning
+# 🎯 Career Goals
 
 ```yaml
-Learning:
-  - Kubernetes
-  - Docker
-  - AWS
-  - Terraform
-  - GitHub Actions
-  - CI/CD
-  - Redis
-  - Kafka
-  - Microservices
-  - LangChain
-  - Vector Databases
-  - Agentic AI
+2026 Goals:
 
-Daily Focus:
-  - Coding
-  - Reading
-  - Building
-  - Learning
+  Career:
+    - Software Engineer
+    - Backend Engineer
+    - AI Engineer
+
+  Learning:
+    - Kubernetes
+    - AWS
+    - Terraform
+    - CI/CD
+    - Distributed Systems
+
+  Building:
+    - Production AI Applications
+    - Cloud Native Projects
+    - Open Source Contributions
+
+  Coding:
+    - 1000+ DSA Problems
 ```
 
 ---
 
 <div align="center">
 
-### 🚀 *"Build. Learn. Improve. Repeat."*
+## 🌟 "Software engineering is not just about writing code—it's about building reliable solutions that create real-world impact."
 
 </div>
 
@@ -858,9 +959,9 @@ Daily Focus:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atif2618&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atif2618&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=atif2618&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=atif2618&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -876,11 +977,11 @@ Daily Focus:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=atif2618&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=atif2618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
 
 </div>
 
@@ -912,33 +1013,35 @@ Daily Focus:
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atif2618&theme=tokyonight&utcOffset=5.5"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atif2618&theme=tokyonight&utcOffset=5.5"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atif2618&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⚡ Development Metrics
-
-<div align="center">
-
-| Metric | Status |
-|:-------:|:------:|
-| 💻 Full Stack Development | ██████████ 100% |
-| 🤖 Artificial Intelligence | █████████░ 90% |
-| ⚙️ Backend Development | █████████░ 90% |
-| 📚 Data Structures & Algorithms | █████████░ 90% |
-| ☁️ Cloud Computing | ███████░░░ 70% |
-| ☸️ Kubernetes | ███████░░░ 70% |
-| 🚀 DevOps | ███████░░░ 70% |
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atif2618&theme=tokyonight"/>
 
 </div>
 
 ---
 
 # 📌 Featured Repositories
+
+> Replace the repository names below with your exact repository names if they are different.
+
+<div align="center">
+
+<a href="https://github.com/atif2618">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=atif2618&repo=Atif-s-Portfolio&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/atif2618">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=atif2618&repo=chat-app&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -956,39 +1059,56 @@ Daily Focus:
 
 </div>
 
-<br>
+---
+
+# ⚡ Development Dashboard
 
 <div align="center">
 
-<a href="https://github.com/atif2618">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=atif2618&repo=chat-app&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/atif2618">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=atif2618&repo=Atif-s-Portfolio&theme=tokyonight&hide_border=true"/>
-
-</a>
+| Engineering Area | Progress |
+|:-----------------|:--------:|
+| 💻 Full Stack Development | ██████████ 100% |
+| ⚙️ Backend Engineering | █████████░ 90% |
+| 🤖 Artificial Intelligence | █████████░ 90% |
+| 📚 Data Structures & Algorithms | █████████░ 90% |
+| ☁️ Cloud Computing | ███████░░░ 70% |
+| 🐳 Docker | ████████░░ 80% |
+| ☸️ Kubernetes | ███████░░░ 70% |
+| 🚀 DevOps | ███████░░░ 70% |
+| 🏗️ System Design | ████████░░ 80% |
 
 </div>
 
-> **Note:** Replace the repository names above with the exact names of your GitHub repositories if they differ.
-
 ---
 
-# 📅 Coding Philosophy
+# 📈 Engineering Focus
 
 <div align="center">
 
-> **"Consistency compounds. Every commit is a step toward becoming a better engineer."**
+| Area | Focus |
+|:-----|:------|
+| 🏗️ Software Engineering | Building scalable, production-ready applications |
+| 🤖 Artificial Intelligence | Computer Vision, RAG & LLM-powered solutions |
+| 🌐 Full Stack Development | React, Next.js, Node.js, MongoDB |
+| ☁️ Cloud & DevOps | Docker, Kubernetes, AWS, Terraform |
+| 📚 Continuous Learning | System Design, Distributed Systems, Microservices |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 *"Every contribution is a step toward building better software."*
 
 </div>
 
 ---
 
 # 🐍 Contribution Snake
+
+> **⚠️ Important:** Enable **GitHub Actions → Read and Write permissions** in your profile repository settings.  
+> Create the workflow shown below as `.github/workflows/snake.yml`.
 
 <div align="center">
 
@@ -1012,6 +1132,64 @@ src="https://raw.githubusercontent.com/atif2618/atif2618/output/github-contribut
 
 ---
 
+# ⚙️ Snake Animation Workflow
+
+Create the following file:
+
+```text
+.github/workflows/snake.yml
+```
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: atif2618
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/7C3AED/atif2618" />
+
+</div>
+
+---
+
 # 🎯 Current Focus
 
 ```yaml
@@ -1022,53 +1200,115 @@ Current_Status:
 
   Education:
     Final Year B.Tech
-    Electronics & Communication Engineering
     IIIT Nagpur
+
+  Building:
+    - AI Applications
+    - Backend APIs
+    - MERN Stack Projects
+    - Cloud Native Applications
+    - DevOps Labs
 
   Learning:
     - Kubernetes
     - Docker
     - AWS
     - Terraform
+    - GitHub Actions
     - CI/CD
-    - Microservices
     - Redis
     - Kafka
+    - Microservices
     - LangChain
     - Vector Databases
 
-  Building:
-    - AI Powered Applications
-    - MERN Stack Projects
-    - Backend APIs
-    - DevOps Labs
-    - Production Ready Software
-
   Exploring:
     - Agentic AI
-    - Large Language Models
-    - Cloud Native Development
+    - Retrieval Augmented Generation
     - Distributed Systems
-    - System Design
+    - High Level System Design
+    - Scalable Backend Architecture
 
   Open_To:
     - Software Engineer
     - Backend Engineer
     - Full Stack Engineer
     - AI Engineer
-    - Open Source Collaboration
-
-  2026_Goals:
-    - Crack a Top Product Company
-    - Master Kubernetes
-    - Deploy Production Applications
-    - Build AI Products
-    - Contribute to Open Source
 ```
 
 ---
 
+# 🛣️ 2026 Engineering Roadmap
+
+<div align="center">
+
+| Goal | Progress |
+|:------|:-------:|
+| 🧩 Solve 1000+ DSA Problems | 🟩🟩🟩🟩⬜ |
+| ☸️ Master Kubernetes | 🟩🟩🟩⬜⬜ |
+| ☁️ AWS Cloud | 🟩🟩🟩⬜⬜ |
+| 🐳 Docker | 🟩🟩🟩🟩⬜ |
+| 🚀 CI/CD Pipelines | 🟩🟩🟩⬜⬜ |
+| 🤖 AI Applications | 🟩🟩🟩🟩🟨 |
+| 🌍 Open Source | 🟩🟩⬜⬜⬜ |
+| 📚 System Design | 🟩🟩🟩🟩⬜ |
+
+</div>
+
+---
+
+# 🌍 Open Source Goals
+
+### I enjoy contributing to projects involving:
+
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- ⚙️ Backend Engineering
+- ☁️ Cloud Computing
+- ☸️ Kubernetes
+- 🐳 Docker
+- 📦 DevOps Automation
+- 🌐 Open Source Tools
+
+---
+
+# 💡 Engineering Mindset
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🚀 Build for Scale | Design applications that can grow with users |
+| 🔒 Security First | Secure authentication and APIs |
+| 📈 Continuous Improvement | Learn something new every day |
+| 🧩 Clean Code | Prioritize readability and maintainability |
+| ⚡ Performance | Optimize for speed and efficiency |
+| 🤝 Collaboration | Share knowledge and contribute to the community |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 *"Great software is built through curiosity, consistency, and continuous improvement."*
+
+</div>
+
+---
+
 # 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+I'm always excited to connect with developers, recruiters, open-source contributors, and tech enthusiasts.
+Whether you want to collaborate on a project, discuss software engineering, AI, or just have a great tech conversation, feel free to reach out!
+</p>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -1096,65 +1336,84 @@ Current_Status:
 
 ---
 
-# 🤝 Open Source & Collaboration
-
-I enjoy collaborating on projects related to:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full Stack Web Development
-- ⚙️ Backend Engineering
-- ☁️ Cloud Computing & DevOps
-- 🚀 Kubernetes & Containerization
-- 🧠 System Design & Scalable Architectures
-- 🌍 Open Source Software
-
-If you're building something impactful, feel free to reach out—I'm always excited to collaborate and learn.
-
----
-
-# 📌 Developer Mindset
+# 💼 Open to Opportunities
 
 <div align="center">
 
-| Principle | Description |
-|------------|-------------|
-| 🧩 Simplicity | Write clean, maintainable, and readable code |
-| 🚀 Scalability | Build software that grows with users |
-| 🔒 Security | Design secure systems by default |
-| 📚 Learning | Stay curious and continuously improve |
-| 🤝 Collaboration | Share knowledge and contribute to the community |
-| ⚡ Performance | Optimize for speed and reliability |
+| Role | Status |
+|:-----|:------:|
+| 💻 Software Engineer | ✅ Open |
+| ⚙️ Backend Engineer | ✅ Open |
+| 🌐 Full Stack Developer | ✅ Open |
+| 🤖 AI / ML Engineer | ✅ Open |
+| ☁️ Cloud & DevOps | ✅ Open |
+| 🚀 Open Source Collaboration | ✅ Open |
 
 </div>
 
 ---
 
-# 💡 Beyond Coding
-
-- 📖 Reading about Software Architecture & System Design
-- 🤖 Exploring AI & LLM Applications
-- ☁️ Learning Cloud & DevOps Technologies
-- 🧩 Solving DSA Problems
-- 🌱 Contributing to Open Source
-- 🎯 Building projects that solve real-world problems
-
----
-
-# 📬 Let's Build Something Amazing Together
+# 🌐 Portfolio
 
 <div align="center">
 
-**I'm always open to discussing:**
+### 🚀 Explore my work
 
-Software Engineering • Full Stack Development • AI • Backend Systems • DevOps • Open Source • Innovative Products
+<a href="https://atif2618.github.io/Atif-s-Portfolio/">
 
-<br><br>
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<a href="mailto:loharatif7@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-Contact%20Me-7C3AED?style=for-the-badge"/>
 </a>
 
 </div>
+
+---
+
+# 📬 Contact Information
+
+```yaml
+Name: Atif Lohar
+
+Location:
+  Mumbai, India
+
+Email:
+  loharatif7@gmail.com
+
+Portfolio:
+  https://atif2618.github.io/Atif-s-Portfolio/
+
+GitHub:
+  https://github.com/atif2618
+
+LeetCode:
+  https://leetcode.com/u/Atif_Lohar/
+```
+
+---
+
+# ❤️ Support My Work
+
+If you find my projects useful or interesting:
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Collaborate on open source
+
+💡 Share feedback and suggestions
+
+---
+
+# 📈 Profile Goals
+
+- 🚀 Build production-ready software
+- 🤖 Develop impactful AI applications
+- ☁️ Master Cloud & Kubernetes
+- 📚 Continuously improve software engineering skills
+- 🌍 Contribute to the open-source community
+- 💼 Join a top product-based company
 
 ---
 
@@ -1162,9 +1421,11 @@ Software Engineering • Full Stack Development • AI • Backend Systems • D
 
 ## 💜 Thanks for Visiting!
 
-*"The best way to predict the future is to build it."*
+### *"Code with purpose. Build with passion. Learn without limits."*
 
-⭐ If you like my work, consider starring my repositories and connecting with me.
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+Profile!;Let's+build+something+amazing+together.;Always+learning.+Always+building.;Happy+Coding!+🚀"/>
 
 </div>
 
@@ -1172,6 +1433,6 @@ Software Engineering • Full Stack Development • AI • Backend Systems • D
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
